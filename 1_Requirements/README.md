@@ -1,7 +1,7 @@
 ## Requirements
 ## Introduction
 .Vending machine is utillity project which is used to reduce the man power with the technological aspects and the complexity of the engineering.
-.The main purpose of vending machine is the swap the shops with machine. The main agenda of the shop is need to exchange goods with the tool called money.![image](https://user-images.githubusercontent.com/100985462/160289871-cb5ebee2-32c9-4157-abfd-60b87ff4e28f.png)
+.The main purpose of vending machine is the swap the shops with machine. The main agenda of the shop is need to exchange goods with the tool called money.![image](https://user-images.githubusercontent.com/100985462/160290958-d98b5964-66df-4964-a7b7-8c39edf3f3e4.png)
 
 
 ## 4W'S and 1H
